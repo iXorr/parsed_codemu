@@ -1,0 +1,2 @@
+<?php
+    return "<body style='background-image: url(https://img-webcalypt.ru/uploads/admin/images/meme-templates/9uab7vE3qRMagFzKJfNJByhZ7c2NhSv4.jpeg); background-repeat: no-repeat; background-size: cover'></body>";
